@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kushal Shankhapal</h1>
 <h3 align="center">A passionate Web and Game developer</h3>
 
-- 🔭 I’m currently working on [Campus Connect](https://github.com/CampusConnectPBL/CampusConnect2)
+- 🔭 I’m currently working on [Visualize-IT](https://github.com/Kushal-Shankhapal/VisualizeIt)
 
-- 🌱 I’m currently learning **Basic Front and Back End Web dev. , Godot Game Engine, Blender**
+- 🌱 I’m currently learning **Game and Web Programming / Design, Godot Game Engine, Blender**
 
-- 💬 Ask me about **Godot**
+- 💬 Ask me about **[Godot](https://godotengine.org/)**
 
 - 📃 My [Resume](https://github.com/Kushal-Shankhapal/Kushal_Shankhapal_Resume/blob/main/Kushal_Shankhapal_Resume.pdf)
 
-- 📫 How to reach me **Email: kushalkishor31@gmail.com**
+- 📫 How to reach me **Email: kushal.shankhapal.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
