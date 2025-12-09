@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Godot**
 
+- 📃 My [Resume](https://github.com/Kushal-Shankhapal/Kushal_Shankhapal_Resume/blob/main/Kushal_Shankhapal_Resume.pdf)
+
 - 📫 How to reach me **Email: kushalkishor31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
