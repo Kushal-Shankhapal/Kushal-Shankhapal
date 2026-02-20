@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal Shankhapal</h1>
 <h3 align="center">A passionate Web and Game developer</h3>
 
-- 🔭 I’m currently working on [Visualize-IT](https://github.com/Kushal-Shankhapal/VisualizeIt)
+- 🔭 I’m currently working on [Visualize-IT](https://github.com/Kushal-Shankhapal/Visualize_IT)
 
 - 🌱 I’m currently learning **Game and Web Programming / Design, Godot Game Engine, Blender**
 
